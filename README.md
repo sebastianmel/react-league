@@ -1,3 +1,4 @@
+API pour gerer les infos d'un jeu (league of legends)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

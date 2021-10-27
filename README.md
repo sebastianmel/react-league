@@ -1,5 +1,5 @@
 API pour gerer les infos d'un jeu (league of legends)
-Plan ajouté dans mes Projets (26 octobre)
+Plan ajouté dans mes Projets (26 octobre).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

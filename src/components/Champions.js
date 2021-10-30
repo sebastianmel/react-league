@@ -17,17 +17,17 @@ const Champions = () => {
     // console.log(data.data);
     return (
         <div className="champions">
-            <ul className="champions-list">
+            <div className="champions-list">
 
 
                 {Object.keys(data).map((key) => {
-                    return <div>{data[key].name} <img src={'../../assets/'+ data[key].image.full}></img> 
+                    return <div className="champion">{data[key].name} <img src={'../../assets/'+ data[key].image.full}></img> 
                       <p>{data[key].title}</p> <p>{data[key].blurb}</p> <br/></div>
                 })}
                
                 
 
-            </ul>
+            </div>
         </div>
     );
 };

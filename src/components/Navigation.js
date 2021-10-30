@@ -6,6 +6,7 @@ const Navigation = () => {
         <div className="navigation">
             <NavLink exact to="/" activeClassName="nav-active">Acceuil</NavLink>
             <NavLink exact to="/a-propos" activeClassName="nav-active">Les bases du jeu</NavLink>
+            <NavLink exact to="/rank" activeClassName="nav-active">Les divisions</NavLink>
         </div>
     );
 };

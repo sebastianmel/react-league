@@ -4,6 +4,7 @@ import About from "./pages/About";
 import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import Rank from "./pages/Rank";
+import Tft from "./pages/Tft";
 
 
 
@@ -15,6 +16,7 @@ function App() {
           <Route path="/" exact component={Home}/>
           <Route path="/a-propos" exact component={About} />
           <Route path="/rank" exact component={Rank} />
+          <Route path="/tft" exact component={Tft} />
           <Route component={NotFound}/>
 
         </Switch>

@@ -13,7 +13,7 @@ const Tft = () => {
             <div className="rankContain">
                 <div className="rankLeft">
                     <br />
-                    <p>Même les joueurs professionnels de la Ligue doivent commencer quelque part, et si beaucoup jouent depuis les premières saisons, de nouveaux joueurs font constamment irruption sur la scène. Examinons de plus près les rank LoL.</p>
+                    <p>aaaMême les joueurs professionnels de la Ligue doivent commencer quelque part, et si beaucoup jouent depuis les premières saisons, de nouveaux joueurs font constamment irruption sur la scène. Examinons de plus près les rank LoL.</p>
                     <br />
                     <p>Mais ces joueurs ne trouvent pas leur chemin vers les équipes professionnelles après avoir joué à l’université ou dans les mineures. Chaque pro de League of Legends a parcouru les échelles de classement jusqu’à Maître, Grand Maître, et Challenger, les niveaux de classement finaux très compétitifs.</p>
                     <br />

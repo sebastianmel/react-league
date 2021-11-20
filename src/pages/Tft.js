@@ -8,7 +8,7 @@ const Tft = () => {
         <div className="tft">
             <Navigation />
             <Logo />
-            <h1>Le teamfight tactique : </h1>
+            <h1>Mode de jeu : </h1>
             <img src="./img/Ranked.jpg" width="100%" height="700px" />
             <div className="rankContain">
                 <div className="rankLeft">

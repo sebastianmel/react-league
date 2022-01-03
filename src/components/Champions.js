@@ -23,6 +23,7 @@ const Champions = () => {
                 {Object.keys(data).map((key) => {
                     return <div className="champion">{data[key].name} <img src={'http://ddragon.leagueoflegends.com/cdn/img/champion/splash/'+ data[key].id +"_0.jpg"} ></img> 
                       <u>{data[key].title}</u> <p>{data[key].blurb.replace(/(<([^>]+)>)/gi, "")}</p> <br/></div>
+                      
                 })}
                
                 

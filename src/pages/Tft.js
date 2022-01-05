@@ -9,7 +9,7 @@ const Tft = () => {
             <Navigation />
             <Logo />
             <h1>Mode de jeu : </h1>
-            <img src="./img/Ranked.jpg" width="100%" height="700px" />
+            <img src="./img/back.jpeg" width="100%" height="700px" />
             <div className="rankContain">
                 <div className="rankLeft">
                     <br />
